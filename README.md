@@ -1,3 +1,3 @@
-#PyGameTest
+# PyGameTest
 
-First game with PyGame library, WIP
+First game with PyGame WIP
